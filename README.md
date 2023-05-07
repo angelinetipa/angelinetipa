@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelinetipa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python!!
 
 <!---
 angelinetipa/angelinetipa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
